@@ -29,6 +29,6 @@ A `capistrano-locally` deploys without SSH only when a target host named "localh
   spec.add_dependency "capistrano", "~> 3.0"
 
   spec.add_development_dependency "bundler", "~> 1.10"
-  spec.add_development_dependency "rake", "~> 10.0"
+  #spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec"
 end
